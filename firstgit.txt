@@ -1,0 +1,3 @@
+This is version first of my file.
+I want to go to commit next 
+fgd
